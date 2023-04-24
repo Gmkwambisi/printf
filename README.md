@@ -2,4 +2,4 @@
 
 Group Project: 
 
-For two people 
+For two people.
